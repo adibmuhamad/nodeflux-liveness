@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Nodeflux Face Liveness</string>
+    <string name="main_title">Lets\'s make sure nobody\'s impersonating you</string>
+    <string name="main_subtitle">Please take a selfie to help us confirm your liveness. We need you to perform a simple sequence of action within the defined time limit.</string>
+    <string name="main_button">START</string>
+    <string name="tnc_header_title">Terms and Conditions</string>
+    <string name="tnc_title">Take a selfie</string>
+    <string name="tnc_subtitle">Please take a selfie to help us confirm your identity.  Would not take more than a minute.</string>
+    <string name="tnc_direction">
+        &#8226; Position your face in  available face area\n&#8226; Make sure you have a good lightning\n&#8226; Hold your phone at eye level and look straight to the camera, then follow the instruction.
+    </string>
+    <string name="tnc_protect">Your data is not be saved on our system.</string>
+    <string name="tnc_button">VERIFY THE LIVENESS</string>
+    <string name="result_back"><u>Back to Home Screen</u></string>
+    <string name="eye_blink" translatable="false">Kedipkan kedua mata beberapa kali</string>
+    <string name="finished" translatable="false">Selesai</string>
+    <string name="hold_failed" translatable="false">Kepala belum stabil, proses gagal</string>
+    <string name="hold_process" translatable="false">Stabilkan kepala dalam oval</string>
+    <string name="left_eye_blink" translatable="false">Kedipkan mata kiri beberapa kali</string>
+    <string name="left_orientation" translatable="false">Hadapkan kepala ke kiri</string>
+    <string name="nod_down" translatable="false">Tundukkan kepala Ke bawah</string>
+    <string name="nod_up" translatable="false">Anggukan kepala Ke atas</string>
+    <string name="not_smile" translatable="false">Mulut tidak tersenyum</string>
+    <string name="one_hold" translatable="false">Pastikan anda tersenyum dengan mata terlihat jelas dalam 3 detik</string>
+    <string name="one_hold_reset" translatable="false">Kepala belum stabil/didalam oval ulang dalam 3 detik</string>
+    <string name="repeat_from_start" translatable="false">Bersiap mengulang dalam 1.5 detik</string>
+    <string name="right_eye_blink" translatable="false">Kedipkan mata kanan beberapa kali</string>
+    <string name="right_orientation" translatable="false">Hadapkan kepala ke kanan</string>
+    <string name="shake_left" translatable="false">Miringkan kepala ke kiri</string>
+    <string name="shake_right" translatable="false">Miringkan kepala ke kanan</string>
+    <string name="smile" translatable="false">Cobalah untuk tersenyum</string>
+    <string name="start" translatable="false">Pastikan kepala berada dalam area dan masker anda terlepas</string>
+    <string name="start_hold" translatable="false">Dekatkan wajah ke garis oval, pastikan wajah tidak tertutup dan lurus menghadap kamera</string>
+    <string name="three_hold" translatable="false">Pastikan anda tersenyum dengan mata terlihat jelas dalam 1 detik</string>
+    <string name="three_hold_reset" translatable="false">Kepala belum stabil/didalam oval ulang dalam 1 detik</string>
+    <string name="time_out" translatable="false">Waktu habis ulang dari awal</string>
+    <string name="two_hold" translatable="false">Pastikan anda tersenyum dengan mata terlihat jelas dalam 2 detik</string>
+    <string name="two_hold_reset" translatable="false">Kepala belum stabil/didalam oval ulang dalam 2 detik</string>
+</resources>
